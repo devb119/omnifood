@@ -6,6 +6,7 @@ btnNavEl.addEventListener("click", function () {
   headerEl.classList.toggle("nav-open");
 });
 
+console.log("Hello and welcome to my Omnifood Project!");
 ///////////////////////////////////////////////////////////////
 // Smooth scrolling animation
 const allLinks = document.querySelectorAll("a:link");
